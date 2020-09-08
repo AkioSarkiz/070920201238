@@ -1,2 +1,4 @@
-# 070920201238
- Test work
+#### Require:
+- PHP 7.4
+- composer
+- MySql
